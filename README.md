@@ -1,2 +1,1 @@
 # configs
-Emacs configuration
